@@ -450,7 +450,7 @@ if game.PlaceId == 2753915549 or game.PlaceId == 4442272183 or game.PlaceId == 7
     
                 ToggleImage.Name = "ToggleImage"
                 ToggleImage.Parent = Toggle
-                ToggleImage.BackgroundColor3 = Color3.fromRGB(70, 68, 79)
+                ToggleImage.BackgroundColor3 = Color3.fromRGB(25, 25, 25)
                 ToggleImage.Position = UDim2.new(0, 425, 0, 5)
                 ToggleImage.BorderSizePixel = 0
                 ToggleImage.Size = UDim2.new(0, 20, 0, 20)
@@ -7017,7 +7017,7 @@ elseif game.PlaceId == 4520749081 or game.PlaceId == 6381829480 or game.PlaceId 
     
                 ToggleImage.Name = "ToggleImage"
                 ToggleImage.Parent = Toggle
-                ToggleImage.BackgroundColor3 = Color3.fromRGB(70, 68, 79)
+                ToggleImage.BackgroundColor3 = Color3.fromRGB(25, 25, 25)
                 ToggleImage.Position = UDim2.new(0, 425, 0, 5)
                 ToggleImage.BorderSizePixel = 0
                 ToggleImage.Size = UDim2.new(0, 20, 0, 20)
@@ -9935,7 +9935,7 @@ elseif game.PlaceId == 6329844902 then
     
                 ToggleImage.Name = "ToggleImage"
                 ToggleImage.Parent = Toggle
-                ToggleImage.BackgroundColor3 = Color3.fromRGB(70, 68, 79)
+                ToggleImage.BackgroundColor3 = Color3.fromRGB(25, 25, 25)
                 ToggleImage.Position = UDim2.new(0, 425, 0, 5)
                 ToggleImage.BorderSizePixel = 0
                 ToggleImage.Size = UDim2.new(0, 20, 0, 20)
