@@ -91,7 +91,7 @@ if game.PlaceId == 2753915549 or game.PlaceId == 4442272183 or game.PlaceId == 7
         Main.Name = "Main"
         Main.Parent = DoctorShiba
         Main.AnchorPoint = Vector2.new(0.5, 0.5)
-        Main.BackgroundColor3 = Color3.fromRGB(30, 28, 39)
+        Main.BackgroundColor3 = Color3.fromRGB(15, 15, 15)
         Main.BackgroundTransparency = 0.100
         Main.BorderSizePixel = 0
         Main.ClipsDescendants = true
@@ -288,7 +288,7 @@ if game.PlaceId == 2753915549 or game.PlaceId == 4442272183 or game.PlaceId == 7
             local MainTab = Instance.new("Frame")
             MainTab.Name = "MainTab"
             MainTab.Parent = TabFolder
-            MainTab.BackgroundColor3 = Color3.fromRGB(30, 28, 39)
+            MainTab.BackgroundColor3 = Color3.fromRGB(15, 15, 15)
             MainTab.BorderSizePixel = 0
             MainTab.Position = UDim2.new(0.208333328, 0, 0, 0)
             MainTab.Size = UDim2.new(0, 475, 0, 350)
@@ -541,7 +541,7 @@ if game.PlaceId == 2753915549 or game.PlaceId == 4442272183 or game.PlaceId == 7
     
                 Textbox.Name = "Textbox"
                 Textbox.Parent = Textboxx
-                Textbox.BackgroundColor3 = Color3.fromRGB(30, 28, 39)
+                Textbox.BackgroundColor3 = Color3.fromRGB(15, 15, 15)
                 Textbox.Position = UDim2.new(0, 310, 0, 5)
                 Textbox.Size = UDim2.new(0, 140, 0, 20)
                 Textbox.Font = Enum.Font.Gotham
@@ -827,7 +827,7 @@ if game.PlaceId == 2753915549 or game.PlaceId == 4442272183 or game.PlaceId == 7
     
                 Bar1.Name = "Bar1"
                 Bar1.Parent = SliderButton
-                Bar1.BackgroundColor3 = Color3.fromRGB(30, 28, 39)
+                Bar1.BackgroundColor3 = Color3.fromRGB(15, 15, 15)
                 Bar1.Size = UDim2.new(0, 435, 0, 5)
     
                 Bar.Name = "Bar"
@@ -6658,7 +6658,7 @@ elseif game.PlaceId == 4520749081 or game.PlaceId == 6381829480 or game.PlaceId 
         Main.Name = "Main"
         Main.Parent = DoctorShiba
         Main.AnchorPoint = Vector2.new(0.5, 0.5)
-        Main.BackgroundColor3 = Color3.fromRGB(30, 28, 39)
+        Main.BackgroundColor3 = Color3.fromRGB(15, 15, 15)
         Main.BackgroundTransparency = 0.100
         Main.BorderSizePixel = 0
         Main.ClipsDescendants = true
@@ -6855,7 +6855,7 @@ elseif game.PlaceId == 4520749081 or game.PlaceId == 6381829480 or game.PlaceId 
             local MainTab = Instance.new("Frame")
             MainTab.Name = "MainTab"
             MainTab.Parent = TabFolder
-            MainTab.BackgroundColor3 = Color3.fromRGB(30, 28, 39)
+            MainTab.BackgroundColor3 = Color3.fromRGB(15, 15, 15)
             MainTab.BorderSizePixel = 0
             MainTab.Position = UDim2.new(0.208333328, 0, 0, 0)
             MainTab.Size = UDim2.new(0, 475, 0, 350)
@@ -7108,7 +7108,7 @@ elseif game.PlaceId == 4520749081 or game.PlaceId == 6381829480 or game.PlaceId 
     
                 Textbox.Name = "Textbox"
                 Textbox.Parent = Textboxx
-                Textbox.BackgroundColor3 = Color3.fromRGB(30, 28, 39)
+                Textbox.BackgroundColor3 = Color3.fromRGB(15, 15, 15)
                 Textbox.Position = UDim2.new(0, 310, 0, 5)
                 Textbox.Size = UDim2.new(0, 140, 0, 20)
                 Textbox.Font = Enum.Font.Gotham
@@ -7394,7 +7394,7 @@ elseif game.PlaceId == 4520749081 or game.PlaceId == 6381829480 or game.PlaceId 
     
                 Bar1.Name = "Bar1"
                 Bar1.Parent = SliderButton
-                Bar1.BackgroundColor3 = Color3.fromRGB(30, 28, 39)
+                Bar1.BackgroundColor3 = Color3.fromRGB(15, 15, 15)
                 Bar1.Size = UDim2.new(0, 435, 0, 5)
     
                 Bar.Name = "Bar"
@@ -9576,7 +9576,7 @@ elseif game.PlaceId == 6329844902 then
         Main.Name = "Main"
         Main.Parent = DoctorShiba
         Main.AnchorPoint = Vector2.new(0.5, 0.5)
-        Main.BackgroundColor3 = Color3.fromRGB(30, 28, 39)
+        Main.BackgroundColor3 = Color3.fromRGB(15, 15, 15)
         Main.BackgroundTransparency = 0.100
         Main.BorderSizePixel = 0
         Main.ClipsDescendants = true
@@ -9773,7 +9773,7 @@ elseif game.PlaceId == 6329844902 then
             local MainTab = Instance.new("Frame")
             MainTab.Name = "MainTab"
             MainTab.Parent = TabFolder
-            MainTab.BackgroundColor3 = Color3.fromRGB(30, 28, 39)
+            MainTab.BackgroundColor3 = Color3.fromRGB(15, 15, 15)
             MainTab.BorderSizePixel = 0
             MainTab.Position = UDim2.new(0.208333328, 0, 0, 0)
             MainTab.Size = UDim2.new(0, 475, 0, 350)
@@ -10026,7 +10026,7 @@ elseif game.PlaceId == 6329844902 then
     
                 Textbox.Name = "Textbox"
                 Textbox.Parent = Textboxx
-                Textbox.BackgroundColor3 = Color3.fromRGB(30, 28, 39)
+                Textbox.BackgroundColor3 = Color3.fromRGB(15, 15, 15)
                 Textbox.Position = UDim2.new(0, 310, 0, 5)
                 Textbox.Size = UDim2.new(0, 140, 0, 20)
                 Textbox.Font = Enum.Font.Gotham
@@ -10312,7 +10312,7 @@ elseif game.PlaceId == 6329844902 then
     
                 Bar1.Name = "Bar1"
                 Bar1.Parent = SliderButton
-                Bar1.BackgroundColor3 = Color3.fromRGB(30, 28, 39)
+                Bar1.BackgroundColor3 = Color3.fromRGB(15, 15, 15)
                 Bar1.Size = UDim2.new(0, 435, 0, 5)
     
                 Bar.Name = "Bar"
