@@ -371,7 +371,7 @@ if game.PlaceId == 2753915549 or game.PlaceId == 4442272183 or game.PlaceId == 7
     
                 Button.Name = "Button"
                 Button.Parent = ScrollTab
-                Button.BackgroundColor3 = Color3.fromRGB(50, 48, 59)
+                Button.BackgroundColor3 = Color3.fromRGB(40, 40, 40)
                 Button.BackgroundTransparency = 0.1
                 Button.BorderSizePixel = 0
                 Button.Size = UDim2.new(0, 455, 0, 30)
@@ -420,7 +420,7 @@ if game.PlaceId == 2753915549 or game.PlaceId == 4442272183 or game.PlaceId == 7
                 local Toggle = Instance.new("TextButton")
                 Toggle.Name = "Toggle"
                 Toggle.Parent = ScrollTab
-                Toggle.BackgroundColor3 = Color3.fromRGB(50, 48, 59)
+                Toggle.BackgroundColor3 = Color3.fromRGB(40, 40, 40)
                 Toggle.BackgroundTransparency = 0.1
                 Toggle.BorderSizePixel = 0
                 Toggle.AutoButtonColor = false
@@ -520,7 +520,7 @@ if game.PlaceId == 2753915549 or game.PlaceId == 4442272183 or game.PlaceId == 7
     
                 Textboxx.Name = "Textboxx"
                 Textboxx.Parent = ScrollTab
-                Textboxx.BackgroundColor3 = Color3.fromRGB(50, 48, 59)
+                Textboxx.BackgroundColor3 = Color3.fromRGB(40, 40, 40)
                 Textboxx.Size = UDim2.new(0, 455, 0, 30)
     
                 TextboxxCorner.CornerRadius = UDim.new(0, 5)
@@ -578,7 +578,7 @@ if game.PlaceId == 2753915549 or game.PlaceId == 4442272183 or game.PlaceId == 7
                 Dropdown.Name = "Dropdown"
                 Dropdown.Parent = ScrollTab
                 Dropdown.Active = true
-                Dropdown.BackgroundColor3 = Color3.fromRGB(50, 48, 59)
+                Dropdown.BackgroundColor3 = Color3.fromRGB(40, 40, 40)
                 Dropdown.ClipsDescendants = true
                 Dropdown.Size = UDim2.new(0, 455, 0, 30)
                 
@@ -784,7 +784,7 @@ if game.PlaceId == 2753915549 or game.PlaceId == 4442272183 or game.PlaceId == 7
     
                 Slider.Name = "Slider"
                 Slider.Parent = ScrollTab
-                Slider.BackgroundColor3 = Color3.fromRGB(50, 48, 59)
+                Slider.BackgroundColor3 = Color3.fromRGB(40, 40, 40)
                 Slider.Size = UDim2.new(0, 455, 0, 40)
     
                 UICorner.CornerRadius = UDim.new(0, 5)
@@ -6938,7 +6938,7 @@ elseif game.PlaceId == 4520749081 or game.PlaceId == 6381829480 or game.PlaceId 
     
                 Button.Name = "Button"
                 Button.Parent = ScrollTab
-                Button.BackgroundColor3 = Color3.fromRGB(50, 48, 59)
+                Button.BackgroundColor3 = Color3.fromRGB(40, 40, 40)
                 Button.BackgroundTransparency = 0.1
                 Button.BorderSizePixel = 0
                 Button.Size = UDim2.new(0, 455, 0, 30)
@@ -6987,7 +6987,7 @@ elseif game.PlaceId == 4520749081 or game.PlaceId == 6381829480 or game.PlaceId 
                 local Toggle = Instance.new("TextButton")
                 Toggle.Name = "Toggle"
                 Toggle.Parent = ScrollTab
-                Toggle.BackgroundColor3 = Color3.fromRGB(50, 48, 59)
+                Toggle.BackgroundColor3 = Color3.fromRGB(40, 40, 40)
                 Toggle.BackgroundTransparency = 0.1
                 Toggle.BorderSizePixel = 0
                 Toggle.AutoButtonColor = false
@@ -7087,7 +7087,7 @@ elseif game.PlaceId == 4520749081 or game.PlaceId == 6381829480 or game.PlaceId 
     
                 Textboxx.Name = "Textboxx"
                 Textboxx.Parent = ScrollTab
-                Textboxx.BackgroundColor3 = Color3.fromRGB(50, 48, 59)
+                Textboxx.BackgroundColor3 = Color3.fromRGB(40, 40, 40)
                 Textboxx.Size = UDim2.new(0, 455, 0, 30)
     
                 TextboxxCorner.CornerRadius = UDim.new(0, 5)
@@ -7145,7 +7145,7 @@ elseif game.PlaceId == 4520749081 or game.PlaceId == 6381829480 or game.PlaceId 
                 Dropdown.Name = "Dropdown"
                 Dropdown.Parent = ScrollTab
                 Dropdown.Active = true
-                Dropdown.BackgroundColor3 = Color3.fromRGB(50, 48, 59)
+                Dropdown.BackgroundColor3 = Color3.fromRGB(40, 40, 40)
                 Dropdown.ClipsDescendants = true
                 Dropdown.Size = UDim2.new(0, 455, 0, 30)
                 
@@ -7351,7 +7351,7 @@ elseif game.PlaceId == 4520749081 or game.PlaceId == 6381829480 or game.PlaceId 
     
                 Slider.Name = "Slider"
                 Slider.Parent = ScrollTab
-                Slider.BackgroundColor3 = Color3.fromRGB(50, 48, 59)
+                Slider.BackgroundColor3 = Color3.fromRGB(40, 40, 40)
                 Slider.Size = UDim2.new(0, 455, 0, 40)
     
                 UICorner.CornerRadius = UDim.new(0, 5)
@@ -9856,7 +9856,7 @@ elseif game.PlaceId == 6329844902 then
     
                 Button.Name = "Button"
                 Button.Parent = ScrollTab
-                Button.BackgroundColor3 = Color3.fromRGB(50, 48, 59)
+                Button.BackgroundColor3 = Color3.fromRGB(40, 40, 40)
                 Button.BackgroundTransparency = 0.1
                 Button.BorderSizePixel = 0
                 Button.Size = UDim2.new(0, 455, 0, 30)
@@ -9905,7 +9905,7 @@ elseif game.PlaceId == 6329844902 then
                 local Toggle = Instance.new("TextButton")
                 Toggle.Name = "Toggle"
                 Toggle.Parent = ScrollTab
-                Toggle.BackgroundColor3 = Color3.fromRGB(50, 48, 59)
+                Toggle.BackgroundColor3 = Color3.fromRGB(40, 40, 40)
                 Toggle.BackgroundTransparency = 0.1
                 Toggle.BorderSizePixel = 0
                 Toggle.AutoButtonColor = false
@@ -10005,7 +10005,7 @@ elseif game.PlaceId == 6329844902 then
     
                 Textboxx.Name = "Textboxx"
                 Textboxx.Parent = ScrollTab
-                Textboxx.BackgroundColor3 = Color3.fromRGB(50, 48, 59)
+                Textboxx.BackgroundColor3 = Color3.fromRGB(40, 40, 40)
                 Textboxx.Size = UDim2.new(0, 455, 0, 30)
     
                 TextboxxCorner.CornerRadius = UDim.new(0, 5)
@@ -10063,7 +10063,7 @@ elseif game.PlaceId == 6329844902 then
                 Dropdown.Name = "Dropdown"
                 Dropdown.Parent = ScrollTab
                 Dropdown.Active = true
-                Dropdown.BackgroundColor3 = Color3.fromRGB(50, 48, 59)
+                Dropdown.BackgroundColor3 = Color3.fromRGB(40, 40, 40)
                 Dropdown.ClipsDescendants = true
                 Dropdown.Size = UDim2.new(0, 455, 0, 30)
                 
@@ -10269,7 +10269,7 @@ elseif game.PlaceId == 6329844902 then
     
                 Slider.Name = "Slider"
                 Slider.Parent = ScrollTab
-                Slider.BackgroundColor3 = Color3.fromRGB(50, 48, 59)
+                Slider.BackgroundColor3 = Color3.fromRGB(40, 40, 40)
                 Slider.Size = UDim2.new(0, 455, 0, 40)
     
                 UICorner.CornerRadius = UDim.new(0, 5)
