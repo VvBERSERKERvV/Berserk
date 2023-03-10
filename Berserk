@@ -625,7 +625,7 @@ if game.PlaceId == 2753915549 or game.PlaceId == 4442272183 or game.PlaceId == 7
                 DropScroll.Position = UDim2.new(-0.0317460336, 0, 1, 0)
                 DropScroll.Size = UDim2.new(0, 455, 0, 70)
                 DropScroll.CanvasSize = UDim2.new(0, 0, 0, 2)
-                DropScroll.ScrollBarThickness = 2
+                DropScroll.ScrollBarThickness = 5
                 
                 DropdownList.Name = "DropdownList"
                 DropdownList.Parent = DropScroll
@@ -7192,7 +7192,7 @@ elseif game.PlaceId == 4520749081 or game.PlaceId == 6381829480 or game.PlaceId 
                 DropScroll.Position = UDim2.new(-0.0317460336, 0, 1, 0)
                 DropScroll.Size = UDim2.new(0, 455, 0, 70)
                 DropScroll.CanvasSize = UDim2.new(0, 0, 0, 2)
-                DropScroll.ScrollBarThickness = 2
+                DropScroll.ScrollBarThickness = 5
                 
                 DropdownList.Name = "DropdownList"
                 DropdownList.Parent = DropScroll
@@ -10110,7 +10110,7 @@ elseif game.PlaceId == 6329844902 then
                 DropScroll.Position = UDim2.new(-0.0317460336, 0, 1, 0)
                 DropScroll.Size = UDim2.new(0, 455, 0, 70)
                 DropScroll.CanvasSize = UDim2.new(0, 0, 0, 2)
-                DropScroll.ScrollBarThickness = 2
+                DropScroll.ScrollBarThickness = 5
                 
                 DropdownList.Name = "DropdownList"
                 DropdownList.Parent = DropScroll
